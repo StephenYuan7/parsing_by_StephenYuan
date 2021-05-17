@@ -1,0 +1,12 @@
+
+*.json
+.vs/parsing_by_StephenYuan/v16/.suo
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.opendb
+*.db-wal
+*.db-shm
+*.db
+*.sqlite

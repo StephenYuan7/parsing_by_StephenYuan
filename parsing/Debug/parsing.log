@@ -1,0 +1,4 @@
+﻿  parsing.c
+C:\Users\25832\source\repos\parsing_by_StephenYuan\parsing\parsing.c(62,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\25832\source\repos\parsing_by_StephenYuan\parsing\parsing.c(110,45): warning C4133: “=”: 从“States_stack *”到“states_stack *”的类型不兼容
+  parsing.vcxproj -> C:\Users\25832\source\repos\parsing_by_StephenYuan\parsing\Debug\parsing.exe
